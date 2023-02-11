@@ -1,4 +1,4 @@
-## TUGAS PERTEMUAN 12
+## TUGAS PERTEMUAN KE 12
 
 NAMA : Selma Ohoira
 
