@@ -1,10 +1,10 @@
 ## TUGAS PERTEMUAN KE 12
 
-NAMA : Selma Ohoira
+NAMA        : Selma Ohoira
 
-NIM : 312210727
+NIM         : 312210727
 
-KELAS : TI.22.C9
+KELAS       : TI.22.C9
 
 MATA KULIAH : Bahasa Pemograman
 
@@ -122,7 +122,7 @@ Gunakan syntax berikut:
 
         run = mahasiswa("nama", "nim", "uts", "uas", "tugas", "akhir")
 
-## Hasil akhir Praktikum 6
+## Hasil akhir Praktikum 10
 
     x = {}
 
